@@ -473,3 +473,24 @@ h1
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
+
+/* FIN INDEX */
+
+
+/* Affluence */
+
+.ccm
+{
+    border-style:groove ;
+    justify-content:space-around ;
+    text-align: center;
+    margin: 0 auto;
+    width: 30%;
+    border-radius: 10%;
+    margin-top: 5%;
+    margin-bottom: 12%;
+    padding: 2%;
+    color: whitesmoke;
+    background-color:rgba(42, 118, 180, 0.9) ;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); 
+}

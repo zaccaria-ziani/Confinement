@@ -39,7 +39,7 @@ require_once('includes/menu.php');
             <h2> Les stocks </h2><br>
 				<p> Ici vous allez pouvoir consulter les stocks des produits les plus recherchés en magasin, pour vous éviter de nous déplacer sans intêret. <p><br>
 				
-				<a  href="stocks.html"><input type="button" value="En savoir plus" class="btn"></a>
+				<a  href="stocks.php"><input type="button" value="En savoir plus" class="btn"></a>
 			</div>
 			<div class="bg"></div>
 		</div>
