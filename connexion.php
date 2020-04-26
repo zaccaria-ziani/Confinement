@@ -55,7 +55,7 @@ $connexion=mysqli_connect("localhost","root","","camping");
             $result = mysqli_fetch_all(mysqli_query($connexion, "SELECT id FROM utilisateurs WHERE login = '$login' "));
             $id = $result[0][0];
             $_SESSION['id'] = $id;
-            header('Location: profil.php');
+            header('Location: index.php');
         }
         else
         {

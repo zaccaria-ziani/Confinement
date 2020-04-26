@@ -36,27 +36,30 @@ require_once('includes/menu.php');
 		
 		<div>
 			<div class="box1" id="box">
-				<p> Ici vous allez pouvoir consulter les stocks des produits les plus recherchés en magasin, pour vous éviter de nous déplacer sans intêret. <p>
-				<h2> Les stocks </h2>
-				<a  href="fansite2.html"><input type="button" value="En savoir plus" class="btn"></a>
+            <h2> Les stocks </h2><br>
+				<p> Ici vous allez pouvoir consulter les stocks des produits les plus recherchés en magasin, pour vous éviter de nous déplacer sans intêret. <p><br>
+				
+				<a  href="stocks.html"><input type="button" value="En savoir plus" class="btn"></a>
 			</div>
 			<div class="bg"></div>
 		</div>
 		
 		<div>
 			<div class="box2" id="box">
-				<p> Vous voulez éviter de faire la queue pendant des heures lorsque vous faites vos courses ? Venez consulter l'affluence dans vos magasins les plus proches de chez vous. <p>
-				<h2> L'affluence en magasin </h2>
-				<input type="button" value="En savoir plus" class="btn">
+            <h2> L'affluence en magasin </h2><br>
+				<p> Vous voulez éviter de faire la queue pendant des heures lorsque vous faites vos courses ? Venez consulter l'affluence dans vos magasins les plus proches de chez vous. <p><br>
+			
+				<a  href="affluence.php"><input type="button" value="En savoir plus" class="btn"></a>
 			</div>
 			<div class="bg"></div>
 		</div>
 		
 		<div>
 			<div class="box3" id="box">
-				<p> Vous voulez gagner un peu d'argent en aidant les gens a faire leurs courses ? Ou alors faire les courses vous embête et vous préferiez payer quelqu'un pour cette tache ?  <p>
-				<h2> Service Volontariat </h2>
-				<input type="button" value="En savoir plus" class="btn">
+            <h2> Service Volontariat </h2><br>
+				<p> Vous voulez gagner un peu d'argent en aidant les gens a faire leurs courses ? Ou alors faire les courses vous embête et vous préferiez payer quelqu'un pour cette tache ?  <p><br>
+				
+				<a  href="volontaires.php"><input type="button" value="En savoir plus" class="btn"></a>
 			</div>
 			<div class="bg"></div>
 		</div>
